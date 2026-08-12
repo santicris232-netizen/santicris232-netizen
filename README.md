@@ -113,29 +113,36 @@ Sistema para asignar/elegir sillas estilo "selección de butacas de cine", aplic
 <div align="center">
 
 <a href="https://github.com/santicris232-netizen/Spas-DEMO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=santicris232-netizen&repo=Spas-DEMO&theme=synthwave&hide_border=true" />
+  <img src="assets/repo-spas-demo.png" width="90%" alt="Spas-DEMO" />
 </a>
+
+<br/><br/>
+
 <a href="https://github.com/santicris232-netizen/martes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=santicris232-netizen&repo=martes&theme=synthwave&hide_border=true" />
+  <img src="assets/repo-martes.png" width="90%" alt="martes" />
 </a>
+
+<br/><br/>
+
 <a href="https://github.com/santicris232-netizen/Sala-de-juntas-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=santicris232-netizen&repo=Sala-de-juntas-&theme=synthwave&hide_border=true" />
+  <img src="assets/repo-sala-de-juntas.png" width="90%" alt="Sala de Juntas" />
 </a>
 
 </div>
 
 ---
 
-### `// 05. MÉTRICAS DEL SISTEMA`
+### `// 05. NIVEL DE DOMINIO`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=santicris232-netizen&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=santicris232-netizen&theme=synthwave&hide_border=true" width="49%" />
+<img src="assets/skill-levels.png" width="90%" alt="Nivel de dominio por tecnología" />
 
-<br/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santicris232-netizen&layout=compact&theme=synthwave&hide_border=true" width="50%" />
+<div align="center">
+
+📊 *Autoevaluación de práctica actual — se actualiza a medida que avanzo en la universidad y en Aurotech.*
 
 </div>
 
